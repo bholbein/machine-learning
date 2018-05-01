@@ -3,11 +3,10 @@
 *.pyc
 .DS_Store
 .ipynb_checkpoints
+**/*.ipynb_checkpoints/
+Folder/.ipynb_checkpoints/*.ipynb
 checkpoint
 logs/*
 tf_logs/*
 images/**/*.png
 my_*
-datasets/words
-datasets/flowers
-datasets/spam
